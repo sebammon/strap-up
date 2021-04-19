@@ -1,0 +1,19 @@
+{
+  "name": "strap-up",
+  "version": "1.0.0",
+  "description": "An opinionated setup for prettier, eslint and husky to get your projects boot(strap)ped as quickly as possible.",
+  "main": "scripts/index.js",
+  "scripts": {
+    "start": "node scripts/index.js"
+  },
+  "keywords": [
+    "eslint",
+    "prettier",
+    "husky"
+  ],
+  "author": "Sebastian Ammon",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}

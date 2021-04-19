@@ -1,0 +1,9 @@
+{
+  "plugins": ["security"],
+  "extends": [
+    "react-app",
+    "react-app/jest",
+    "prettier",
+    "plugin:security/recommended"
+  ]
+}
